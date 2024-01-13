@@ -18,3 +18,6 @@ pip install -r requirements.txt
 ```
 ./nerd-dictation.py
 ```
+
+## Difference comparing to original nerd-dictation
+[Original nerd-dictation program](https://github.com/ideasman42/nerd-dictation) is great for english language, but extremely laggy for russian. At least for the time of creating this program (year 2023).
